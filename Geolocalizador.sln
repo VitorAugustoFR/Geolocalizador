@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geolocalizador.Android", "Geolocalizador.Android\Geolocalizador.Android.csproj", "{A6FBFB2E-0FCA-498E-94FA-0F72CB1715FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geolocalizador", "Geolocalizador\Geolocalizador.csproj", "{F7B7B373-5610-4EE2-8270-A1CD6FA71A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6FBFB2E-0FCA-498E-94FA-0F72CB1715FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FBFB2E-0FCA-498E-94FA-0F72CB1715FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FBFB2E-0FCA-498E-94FA-0F72CB1715FB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A6FBFB2E-0FCA-498E-94FA-0F72CB1715FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FBFB2E-0FCA-498E-94FA-0F72CB1715FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6FBFB2E-0FCA-498E-94FA-0F72CB1715FB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F7B7B373-5610-4EE2-8270-A1CD6FA71A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B7B373-5610-4EE2-8270-A1CD6FA71A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B7B373-5610-4EE2-8270-A1CD6FA71A3C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F7B7B373-5610-4EE2-8270-A1CD6FA71A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B7B373-5610-4EE2-8270-A1CD6FA71A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B7B373-5610-4EE2-8270-A1CD6FA71A3C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E33E27CA-2399-4762-B457-09B0D53EEB38}
+	EndGlobalSection
+EndGlobal
