@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Archive>
+  <Name>Geolocalizador.Android</Name>
+  <PackageName>com.companyname.geolocalizador</PackageName>
+  <PackageVersionCode>1</PackageVersionCode>
+  <PackageVersionName>1.0</PackageVersionName>
+  <PackageFormat>apk</PackageFormat>
+  <CreationDate>638482833071365661</CreationDate>
+  <SolutionName>Geolocalizador</SolutionName>
+  <SolutionPath>C:\Users\Aluno\source\repos\Geolocalizador\Geolocalizador.sln</SolutionPath>
+  <Status></Status>
+  <Configuration>
+    <DebugMode>false</DebugMode>
+  </Configuration>
+  <Comment />
+  <LastUsedKeystore>C:\Users\Aluno\AppData\Local\Xamarin\Mono for Android\Keystore\legal\legal.keystore</LastUsedKeystore>
+  <TimeStampingAuthority />
+  <LastInsightsUploadDate>0</LastInsightsUploadDate>
+</Archive>
